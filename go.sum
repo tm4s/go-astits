@@ -1,9 +1,9 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/asticode/go-astiamqp v1.0.0/go.mod h1:PDHG8FjHJDtbDNNHixFCm80+7Ma1dKvwYl325Mj5DI4=
-github.com/asticode/go-astilog v1.0.0 h1:l9tek0K7KoQCmhZ7cvBTtVu0NsKpS9hB6jBLtQyxWYk=
-github.com/asticode/go-astilog v1.0.0/go.mod h1:Vg6SGUYb3tVyFeGQe0Mqmh0RMygpwy+huFKcyL92EVc=
-github.com/asticode/go-astitools v1.0.0 h1:B5l3sI+hgQJsUNyLgd6pHrhH75GAtFzZVIirso7oFeg=
-github.com/asticode/go-astitools v1.0.0/go.mod h1:E7f1P0KkBNgafRCD0dHqn41jNHyYHjxrnK1jH2s4pmA=
+github.com/tm4s/go-astilog v1.0.0 h1:l9tek0K7KoQCmhZ7cvBTtVu0NsKpS9hB6jBLtQyxWYk=
+github.com/tm4s/go-astilog v1.0.0/go.mod h1:Vg6SGUYb3tVyFeGQe0Mqmh0RMygpwy+huFKcyL92EVc=
+github.com/tm4s/go-astitools v1.0.0 h1:B5l3sI+hgQJsUNyLgd6pHrhH75GAtFzZVIirso7oFeg=
+github.com/tm4s/go-astitools v1.0.0/go.mod h1:E7f1P0KkBNgafRCD0dHqn41jNHyYHjxrnK1jH2s4pmA=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/imdario/mergo v0.3.6/go.mod h1:2EnlNZ0deacrJVfApfmtdGgDfMuh/nq6Ok1EcJh5FfA=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=

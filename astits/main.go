@@ -13,10 +13,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/flag"
-	"github.com/asticode/go-astitools/io"
-	"github.com/asticode/go-astits"
+	"github.com/tm4s/go-astilog"
+	"github.com/tm4s/go-astitools/flag"
+	"github.com/tm4s/go-astitools/io"
+	"github.com/tm4s/go-astits"
 	"github.com/pkg/errors"
 	"github.com/pkg/profile"
 )

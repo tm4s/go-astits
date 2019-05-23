@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/asticode/go-astitools/binary"
+	"github.com/tm4s/go-astitools/binary"
 	"github.com/stretchr/testify/assert"
 )
 

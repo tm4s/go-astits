@@ -1,7 +1,7 @@
-[![GoReportCard](http://goreportcard.com/badge/github.com/asticode/go-astits)](http://goreportcard.com/report/github.com/asticode/go-astits)
-[![GoDoc](https://godoc.org/github.com/asticode/go-astits?status.svg)](https://godoc.org/github.com/asticode/go-astits)
-[![Travis](https://travis-ci.org/asticode/go-astits.svg?branch=master)](https://travis-ci.org/asticode/go-astits#)
-[![Coveralls](https://coveralls.io/repos/github/asticode/go-astits/badge.svg?branch=master)](https://coveralls.io/github/asticode/go-astits)
+[![GoReportCard](http://goreportcard.com/badge/github.com/tm4s/go-astits)](http://goreportcard.com/report/github.com/tm4s/go-astits)
+[![GoDoc](https://godoc.org/github.com/tm4s/go-astits?status.svg)](https://godoc.org/github.com/tm4s/go-astits)
+[![Travis](https://travis-ci.org/tm4s/go-astits.svg?branch=master)](https://travis-ci.org/tm4s/go-astits#)
+[![Coveralls](https://coveralls.io/repos/github/tm4s/go-astits/badge.svg?branch=master)](https://coveralls.io/github/tm4s/go-astits)
 
 This is a Golang library to natively parse and demux MPEG Transport Streams (ts) in GO.
 
@@ -12,7 +12,7 @@ the length of the slice is sufficient and rather panic on purpose. Use at your o
 
 To install the library use the following:
 
-    go get -u github.com/asticode/go-astits/...
+    go get -u github.com/tm4s/go-astits/...
     
 # Before looking at the code...
 
